@@ -1,0 +1,4 @@
+- [ ] Setup frontend
+- [ ] Setup backend
+- [ ] Integrate compiler
+- [ ] Add authentication
